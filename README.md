@@ -30,7 +30,7 @@ This project demonstrates the use of an ultrasonic distance sensor (HC-SR04) wit
 
 ## Circuit Diagram
 
-![Circuit Diagram](path/to/circuit/diagram.png)
+![Circuit Diagram]( https://github.com/GAT301-2024/LED_DISTANCE_SENSOR/blob/main/sensor%20screenshot.png)
 
 *Note: Replace `path/to/circuit/diagram.png` with the actual path to your circuit diagram image.*
 
